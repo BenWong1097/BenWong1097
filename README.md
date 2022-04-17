@@ -1,7 +1,7 @@
 # Hey there! 👋 Welcome to my Github!
 
 ## 👤💬 self.tldr()
-- 💉 Software Developer at Epic **Systems**
+- 💉 Software Engineer at Duo Security
 - 🐕 Dog dad of my adorable Kenny
 - 📚 Big reader on continuous self improvement books (anyone interested in exchanging good reads?)
 
