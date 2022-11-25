@@ -2,7 +2,7 @@
 
 ## 👤💬 self.tldr()
 - 🛡️ Software Engineer at Duo Security
-- 🐕 Dog dad of my adorable Kenny
+- 🐕 Dog dad of my adorable Kenny and Boji
 - 📚 Big reader on continuous self improvement books (anyone interested in exchanging good reads?)
 
 ## 👤💻 self.tech()
